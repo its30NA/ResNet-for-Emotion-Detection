@@ -1,0 +1,11 @@
+pytest
+pylint
+ipdb
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+requests
+tensorflow==2.15.0
+keras
